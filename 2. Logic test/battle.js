@@ -15,11 +15,11 @@ for(let j=0;j<length/2;j++){
   console.log("Sum AI:"+totalComputer)
 }
 if(totalUser==totalComputer){
-  console.log("Seri ciyeeee")
+  console.log("Seri nih! Ayo main lagi!")
 }else if(totalUser>totalComputer){
-  console.log("Kamu menang coy, WUHUUU!!")
+  console.log("Kamu menang!!")
 }else{
-  console.log("AI telah menguasai dunia. LUL")
+  console.log("AI menang dan menguasai dunia!!.")
 }
 
 function battle(pool){
